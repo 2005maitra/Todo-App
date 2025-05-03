@@ -17,4 +17,15 @@ Error Handling: The app gracefully handles invalid commands (e.g., entering a no
 
 ## 📝 Todo App Preview
 
-![Todo App Screenshot](images/Screenshot%20(2).png) (images/Screenshot%20(3).png)
+
+### Show Task
+![Home Screen](images/Screenshot%20(2).png)
+
+### Add Task
+![Add Task](images/Screenshot%20(3).png)
+
+### Task Completed
+![Completed Task](images/Screenshot%20(5).png)
+
+### Edit Task
+![Edit Task](images/Screenshot%20(4).png)
