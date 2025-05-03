@@ -17,4 +17,4 @@ Error Handling: The app gracefully handles invalid commands (e.g., entering a no
 
 ## 📝 Todo App Preview
 
-![Todo App Screenshot](images/Screenshot%20(2).png)
+![Todo App Screenshot](images/Screenshot%20(2).png) (images/Screenshot%20(3).png)
