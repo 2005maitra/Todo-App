@@ -14,3 +14,7 @@ Persistent Storage: All tasks are saved in a file (todos.txt), and remain betwee
 
 **Additional Notes:-**
 Error Handling: The app gracefully handles invalid commands (e.g., entering a non-numeric value for task editing or completion).
+
+## 📝 Todo App Preview
+
+![Todo App Screenshot](images/Screenshot%20(2).png)
